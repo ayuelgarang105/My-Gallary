@@ -1,6 +1,6 @@
 # My-Gallery
 #
-#### Author: [Ayuel Garang](https://github.com/ayuelgarang105)
+#### Author:[Ayuel Garang](https://github.com/ayuelgarang105)
 
 
 ## Description
