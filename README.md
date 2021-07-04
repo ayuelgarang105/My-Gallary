@@ -29,7 +29,7 @@ A link to my [figma design](https://www.figma.com/file/UNq2anH6uJd5N61DvW1J5M/Ga
 
 #### Clone the Repo and rename it to suit your needs.
 ```bash
-git clone https://github.com/Benardakaka/My-Gallery.git
+git clone https://github.com/ayuelgarang105/My-Gallary.git
 ```
 
 
